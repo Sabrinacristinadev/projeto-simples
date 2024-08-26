@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html"> sobre mim</a>
+            </li>
+            <li>
+                <a href="project.html"> projetos</a>
+            </li>
+            <li>
+                <a href="contact.html"> projetos</a>
+            </li>
+        </ul>
+    </nav>
+
+    <header> 
+        <div class="center">
+            
+            <img src="./img/sabrina122.jpg" alt="sabrina"></img>
+        </div>
+        <h1>Sabrina Cristina</h1>
+        <h2>Desenvolvedora de sistemas</h2>
+        <main>
+            <section>
+                <h3>Sobre mim </h3>
+                <p>
+                    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum vvLorem ipsum 
+                    Lorem ipsum vLorem ipsum vvvvLorem ipsum Lorem ipsum 
+                    Lorem ipsum vLorem ipsum vvvvLorem ipsum Lorem ipsum 
+                    Lorem ipsum vvLorem ipsum 
+                </p>
+            </section>
+            <section>
+                <h3>Cursos </h3>
+                <p>
+                    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum vvLorem ipsum 
+                    Lorem ipsum vLorem ipsum vvvvLorem ipsum Lorem ipsum 
+                    Lorem ipsum vLorem ipsum vvvvLorem ipsum Lorem ipsum 
+                    Lorem ipsum vvLorem ipsum 
+                </p>
+            </section>
+            <section>
+                <h3>Sobre mim </h3>
+                <p>
+                    Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum vvLorem ipsum 
+                    Lorem ipsum vLorem ipsum vvvvLorem ipsum Lorem ipsum 
+                    Lorem ipsum vLorem ipsum vvvvLorem ipsum Lorem ipsum 
+                    Lorem ipsum vvLorem ipsum 
+                </p>
+            </section>
+        </main>
+<footer>
+    <a>
+        <img src="./img/sabrina122.jpg" alt="whats">
+        
+    </a>
+
+
+
+
+</body>
+</html>
